@@ -1,7 +1,7 @@
 # AS05
 
 ## Como utilizar?
-O link para acessar a aplicação é: 
+O link para acessar a aplicação é: https://as05t3688875-haqecufkxstwvmuxrp3nfd.streamlit.app/
 -  A versão do Python utilizada para o desenvolvimento do projeto foi a 3.11.9
 -  Para baixar as bibliotecas necessárias, executar **pip install -r requirements.txt**
 -  Para rodar a interface, executar **streamlit run main.py**
